@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I am Anu</h1>
+<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I am Anu.</h1>
 <hr>
 
 <!-- - 🔭 I’m currently working on ...
@@ -13,7 +13,7 @@
 ## <p align='center'>😄 About Me</p>
 
 <div align='center'>
-🚀 Learning about UI/UX and venturing out to experience and work in web dev plus Web3.<br>
+🚀 Learning about UI/UX and venturing out to experience and work in Web Dev plus Web3.<br>
 👯 Would love to collaborate and work on exciting stuff with other developers and awesome people.<br>
 </div>
 <br>
