@@ -13,7 +13,7 @@
 ## <p align='center'>😄 About Me</p>
 
 <div align='center'>
-🚀 Learning about UI/UX and venturing out to experience and work in web dev plus web3<br>
+🚀 Learning about UI/UX and venturing out to experience and work in web dev plus Web3.<br>
 👯 Would love to collaborate and work on exciting stuff with other developers and awesome people.<br>
 </div>
 <br>
