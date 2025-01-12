@@ -13,8 +13,8 @@
 ## <p align='center'>😄 About Me</p>
 
 <div align='center'>
-🚀 Learning about Full stack development & venturing out to experience and work in Web Dev & Web3.<br>
-👯 Would love to collaborate and work on exciting stuff with other developers and awesome people.<br>
+  🚀 Exploring Full Stack Development and diving into the exciting worlds of Web Development and Web3 to build innovative and impactful solutions.<br>
+👯 Eager to collaborate with passionate developers and creative minds on cutting-edge projects and transformative ideas.<br>
 </div>
 <br>
 <p align='center'>
