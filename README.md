@@ -20,8 +20,6 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=anupama12sg&show_icons=true&count_private=true&theme=synthwave"></a>
 </p>
 
-<hr>
-
 ## <p align='center'>:computer: Technologies</p>
 ### <p align='center'>Languages</p>
 <div align='center'>
