@@ -12,8 +12,8 @@
 ## <p align='center'>😄 About Me</p>
 
 <div align='center'>
-  🚀 Exploring Full Stack Development and diving into the exciting worlds of Web Development and Web3 to build innovative and impactful solutions.<br>
-👯 Eager to collaborate with passionate developers and creative minds on cutting-edge projects and transformative ideas.<br>
+  🚀 Exploring Full Stack Development and Web3 to build innovative & impactful solutions.<br>
+👯 Eager to collaborate with passionate developers & creative minds on cutting-edge projects and transformative ideas.<br>
 </div>
 <br>
 <p align='center'>
