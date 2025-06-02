@@ -34,8 +34,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) ![Sqlite](https://img.shields.io/badge/-sqlite-black?style=flat-square&logo=sqlite)
 
 </div>
-
-<hr>
   
 ## <p align='center'>📫 How to reach me</p>
 <div align='center'>
